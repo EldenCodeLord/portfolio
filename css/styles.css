@@ -5,6 +5,7 @@
   position: relative;
 }
 
-h2 {
+h1 {
   color: red;
+  text-align: center;
 }
