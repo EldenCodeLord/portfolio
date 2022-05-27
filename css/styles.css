@@ -36,6 +36,7 @@ p.important {
   border: 4px solid black;
   padding: 8px;
   margin: 16px;
+  float: left;
 }
 
 .sidebar {
@@ -53,7 +54,7 @@ p {
   background-color: white;
   color: black;
   font-family: sans-serif;
-  font-size: 20px;
+  font-size: 22px;
   border: 2px solid black;
   padding: 10px;
   text-align: center;
@@ -61,19 +62,24 @@ p {
 }
 
 ul {
-  color: white;
+  color: black;
   font-family: sans-serif;
   font-size: 25px;
   font-style: oblique;
-  border: 4px solid black;
+  border: 12px solid black;
   margin: 18px;
-  padding: 10px;
+  padding: 25px;
+  text-align: left;
+  
 }
 
 .column {
   float: center;
-  background-color: transparent;
+  background-color: white;
   font-family: sans-serif;
+  margin:20px;
+  width: 1000px;
+  
 }
 
 ol {
